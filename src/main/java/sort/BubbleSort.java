@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author Wen
  * 
- * 2018年10月21日  下午3:28:28
+ * 2018-10-21  15:28:28
  */
 public class BubbleSort {
 	public static void main(String[] args) {
